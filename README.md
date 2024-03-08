@@ -2,7 +2,7 @@
 Hi, Hello
 Let me introduce myself.
 
-I'm working as a mobile software enginer developer in startup company.
+I'm working as a mobile software engineering developer in startup company.
 Here are my skills
 
 - Java / Swift
