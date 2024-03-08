@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**longtn-imt/longtn-imt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, Hello
+Let me introduce myself.
 
-Here are some ideas to get you started:
+I'm working as a mobile software enginer developer in startup company.
+Here are my skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Kotlin / Swift
+- Dart(Flutter)
+- NoSQL(Firestore) / MySQL
+
+![LongTN-IMT's GitHub stats](https://github-readme-stats.vercel.app/api?username=longtn-imt&show_icons=true&theme=dark)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longtn-imt&theme=dark&hide=cs,cpp)
