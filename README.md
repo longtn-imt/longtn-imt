@@ -9,5 +9,5 @@ Here are my skills
 - Dart(Flutter)
 - NoSQL / MySQL
 
-![LongTN-IMT's GitHub stats](https://github-readme-stats.vercel.app/api?username=longtn-imt&show_icons=true&theme=dark)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longtn-imt&theme=dark&hide=cs,cpp)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=longtn-imt&layout=compact&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longtn-imt&layout=compact&theme=dark)
