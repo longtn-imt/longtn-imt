@@ -2,9 +2,9 @@
 Hi, Hello
 Let me introduce myself.
 
-I'm working as a mobile software engineering developer in startup company.
-Here are my skills
+I'm working as a mobile software engineering developer in [IMT Solutions Corp](https://imt-soft.com).
 
+Here are my skills
 - Java / Swift
 - Dart(Flutter)
 - NoSQL / MySQL
